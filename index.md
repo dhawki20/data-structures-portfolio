@@ -1,6 +1,10 @@
 # Nick Hawkins
 Data Science Student  
 UNC Charlotte
-## I am from Summerfield, NC and I am Majoring in Sports Analytics here at UNCC.
-Welcome to my Data Science Studio portfolio.
-This website will document my learning and projects throughout the semester.
+---
+## About Me
+I am a 21 year old Junior and I play Club Baseball at UNCC. My goal is to graduate on time and make the most that I can with my time at UNC Charlotte.
+---
+## Portfolio
+- [Blog](blog.md)
+- [Projects](projects.md)
